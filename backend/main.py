@@ -29,7 +29,7 @@ print("HidayahHub Backend Starting...")
 print("=" * 50)
 
 # Load API key from environment variable (recommended) or fallback
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+# GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 
 AI_AVAILABLE = False
 groq_client = None
