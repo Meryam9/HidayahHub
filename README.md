@@ -158,4 +158,4 @@ patience · gratitude · forgiveness · knowledge · tawakkul · prayer · chara
 - The FAISS index must be built **before** running the server
 - Embedding generation takes ~5–15 minutes on CPU (one-time only)
 - The model (`all-MiniLM-L6-v2`) is ~90MB and auto-downloads on first run
-- Audio only works for Quran ayaat with a valid surah:ayah reference
+- Audio only works for Quran ayaat with a valid surah:ayah reference 
